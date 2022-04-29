@@ -1,3 +1,1 @@
-# WeChamber
-
-## Officel Repositories of Wechamber Inc.
+# Officel Repositories of Wechamber Inc.
